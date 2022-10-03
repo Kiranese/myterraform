@@ -1,5 +1,5 @@
 # myterraform
-# This code is for building multiple resources on Azure 
+# This code is for building landing zone on Azure 
 
 Resources 
 
